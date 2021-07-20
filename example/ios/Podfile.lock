@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - heligate_contact (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - heligate_contact (from `.symlinks/plugins/heligate_contact/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  heligate_contact:
+    :path: ".symlinks/plugins/heligate_contact/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  heligate_contact: 0eeefd8f7db9e6172278f4ad0675f213a4f9aba5
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
